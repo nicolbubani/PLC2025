@@ -1,4 +1,4 @@
- onePlusone x = 1+1
+onePlusone = putStrLn ("1+1=2")
 
 main = do
     putStrLn "Welcome to the programme. Please enter your name"
